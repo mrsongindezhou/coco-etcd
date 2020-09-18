@@ -1,0 +1,9 @@
+{
+    "etcd": {
+        "arch": "amd64",
+        "digest": "228ede6d2a2431666c25be4671ce5164d11f92d94f8635b7b25d486accc8ccee",
+        "distro": "debian-10",
+        "type": "NAMI",
+        "version": "3.4.13-0"
+    }
+}
